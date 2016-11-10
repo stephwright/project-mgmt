@@ -5,10 +5,10 @@
 ####Scenario:  Your favorite librarian is retiring after 25 years of service at your organization.  You are a member of the Retirement Party Planning Committee.  You will work collaboratively to plan the party which will be held 3 months from now.
 
 ####Activity:
-Pick one person to be the "chair" of the party planning committee.  The rest of the "committee" will use this person's copy of the repo to plan the party. (2 min)
+Pick one person to be the "chair" of the party planning committee.  The rest of the "committee" will use this person's copy of the repo to plan the party. The Chair creates a new repository called "Retirement". (2 min)
 
-**Everyone in the group should create an issue (3 mins)**
-  * Go to the Chair's repository.
+**Everyone in the group should create an issue in the new repository(3 mins)**
+  * Go to the Chair's "Retirement" repository.
   * Click on "Issues" under the name of the repository.
   * Click on the green "New Issue" button.
   * Describe a task that needs to be done, an idea you have for the party, a question that you need answered, etc.  Feel free to comment and respond to issues created by others.  Remember, you can use Markdown and emojis when creating issues.
